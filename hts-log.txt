@@ -1,0 +1,14 @@
+HTTrack3.50-5 launched on Sat, 24 Oct 2026 22:03:40 at https://damonras.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://damonras.com -O1 "C:\My Web Sites\damonras.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:05:20	Error: 	"Not Found" (404) at link https://damonras.com/js/ (from https://damonras.com/dist/js/main.js?cb=79cfb7e648dc8153cba6c5f41529a3afaacd0cdf)
+22:05:20	Error: 	"Not Found" (404) at link https://damonras.com/dist/js/gtm.js (from www.google-analytics.com/analytics.js)
+22:05:21	Error: 	"Not Found" (404) at link https://damonras.com/plugins/ (from www.google-analytics.com/analytics.js)
+
+HTTrack Website Copier/3.50-5 mirror complete in 1 minutes 41 seconds : 287 links scanned, 283 files written (146665071 bytes overall) [145847749 bytes received at 1444037 bytes/sec], 1437328 bytes transferred using HTTP compression in 25 files, ratio 20%, 16.8 requests per connection
+(3 errors, 0 warnings, 0 messages)
